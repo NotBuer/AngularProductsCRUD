@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "RTX VideoCard",
+      "price": "100000"
+    },
+    {
+      "id": 1,
+      "name": "Nootbook",
+      "price": "5240.26"
+    },
+    {
+      "id": 2,
+      "name": "Logitech Keyboard",
+      "price": "2523.52"
+    }
+  ]
+}
